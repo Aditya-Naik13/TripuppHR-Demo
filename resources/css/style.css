@@ -143,7 +143,7 @@ form button{
     transition: 500ms;
 }
 form button:hover{
-    background-color: #fd97ff;
+    background-color: #41E576;
     color: black;
 }
 .main-info-txt{
