@@ -120,13 +120,13 @@ transition: 300ms;
 }
 .get-started{
     background:rgba(192, 192, 192, 0.4);
-    max-width: 360px;
+    max-width: 350px;
     margin-left: 120px;
     border-radius: 10px;
-    padding: 10px;
+    padding: 5px;
 }
  form input{
-    background:rgba(192, 192, 192, 0.4);
+    background:rgba(192, 192, 192, 0);
     border-radius: 10px;
     font-family:'Montserrat',sans-serif;
     font-weight: bold;
@@ -138,7 +138,7 @@ transition: 300ms;
 }
 form button{
     padding: 15px;
-    margin-left: 10px;
+    margin-left:5px;
     border-radius: 10px;
     border: 0px;
     background-color:#4C56CE;
