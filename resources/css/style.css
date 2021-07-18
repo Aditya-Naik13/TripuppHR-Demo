@@ -42,7 +42,7 @@ padding-right: 50px;
 transition: 300ms;
 }
 .nav-menu a:hover{
-    color: #fd97ff;
+    color: #41E576;
     transform: scale(1.1);
 }
 .sign-in{
@@ -55,8 +55,11 @@ padding-right: 20px;
 margin-right: 20px; 
 transition: 300ms;
 }
+.sign-in:hover{
+    transform: scale(1.1);
+}
 .sign-in a:hover{
-    color: #4C56CE;
+    color:#387FDA;
 }
 .sign-in a{
     padding-top:5px;
